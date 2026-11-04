@@ -1,0 +1,29 @@
+{
+    "searchTests": [
+        {
+            "testName": "Search for laptop",
+            "product": "laptop",
+            "expectedText": "laptop"
+        },
+        {
+            "testName": "Search for headphones",
+            "product": "headphones",
+            "expectedText": "headphones"
+        },
+        {
+            "testName": "Search for mobile",
+            "product": "mobile phone",
+            "expectedText": "mobile"
+        },
+        {
+            "testName": "Search for keyboard",
+            "product": "keyboard",
+            "expectedText": "keyboard"
+        },
+        {
+            "testName": "Search for mouse",
+            "product": "wireless mouse",
+            "expectedText": "mouse"
+        }
+    ]
+}
